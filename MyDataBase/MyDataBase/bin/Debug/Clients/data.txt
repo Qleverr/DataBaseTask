@@ -1,0 +1,4 @@
+1|Vasya|Galeev|Sasha|
+2|Kolya|Yalkaev|Misha|
+3|Ranis|Nigmatullin|Roma|
+4|Almaz|Namaz|Kolya|
